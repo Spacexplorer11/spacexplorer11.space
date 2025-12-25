@@ -3,7 +3,7 @@
 
 <div
 	class="page-container @container mx-auto flex h-full min-h-screen w-full max-w-5xl flex-col items-center rounded-3xl border-2 border-[#431407] bg-orange-50 p-7 sm:p-5 sm:px-12"
-	style="boxShadow: 2px 2px 0 4px #431407"
+	style="box-shadow: 2px 2px 0 4px #431407"
 >
 	<div class="mt-20 flex max-w-3xl flex-col items-start sm:items-center sm:text-center">
 		<div class="chip mb-4 bg-orange-100 hover:bg-orange-200">
@@ -20,7 +20,7 @@
 		<div class="mt-4 flex flex-wrap gap-2">
 			<button
 				class="btn flex items-center gap-3 bg-purple-500 pt-3 text-purple-950"
-				onClick={() => window.open("https://github.com/spacexplorer11")}
+				onclick={() => window.open("https://github.com/spacexplorer11")}
 			>
 				GitHub
 				<svg
