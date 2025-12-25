@@ -1,5 +1,6 @@
 # What is this?
 
+Inspired _*heavily*_ by https://bymanu.me - (https://github.com/manuthecoder/ManuTheCoder)
 This is my second portfolio website, built with svelte, bun, and tailwindcss.  
 I also have https://akaalroop.com!
 
