@@ -16,4 +16,4 @@ You: Whatever, idrc
 
 Question 1... this is my portfolio, why on earth do you need to...  
 Well, I'm hoping you're just trying to add to it, and want to test it out locally before pushing changes.  
-So after you've cloned run `bash bun install` to install dependencies, run `bun dev` to start the development server, and open your browser to `http://localhost:3000` to view it.
+So after you've cloned run `bash bun install` to install dependencies, run `bun dev` to start the development server, and open your browser to `http://localhost:5173` to view it.
